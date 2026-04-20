@@ -134,11 +134,7 @@ GitHub: https://github.com/kasakvlsi
 
 
 
-\---
 
-
-
-⭐ This project is part of my FPGA \& VLSI learning journey.
 
 
 
